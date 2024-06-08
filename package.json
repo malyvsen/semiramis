@@ -5,6 +5,9 @@
   "keywords": [],
   "author": "malyvsen",
   "license": "",
+  "scripts": {
+    "dev": "nx run-many --all --target=dev"
+  },
   "devDependencies": {
     "nx": "^19.2.2"
   }
