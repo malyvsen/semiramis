@@ -1,0 +1,11 @@
+{
+  "name": "semiramis",
+  "version": "0.0.1",
+  "description": "A garden of notes.",
+  "keywords": [],
+  "author": "malyvsen",
+  "license": "",
+  "devDependencies": {
+    "nx": "^19.2.2"
+  }
+}
