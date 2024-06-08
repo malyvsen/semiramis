@@ -6,7 +6,9 @@
   "author": "malyvsen",
   "license": "",
   "scripts": {
-    "dev": "nx run-many --all --target=dev"
+    "dev": "nx run-many --all --target=dev",
+    "build": "nx run-many --all --target=build",
+    "lint": "nx run-many --all --target=lint"
   },
   "devDependencies": {
     "nx": "^19.2.2"
