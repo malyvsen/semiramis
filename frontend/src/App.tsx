@@ -1,10 +1,5 @@
 function App() {
-
-  return (
-    <>
-      Semiramis 🍃
-    </>
-  )
+  return <>Semiramis 🍃</>;
 }
 
-export default App
+export default App;
